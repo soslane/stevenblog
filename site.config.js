@@ -20,14 +20,14 @@ const CONFIG = {
   blog: {
     title: "STEVEN",
     description: "welcome to steven blog!",
-    scheme: "system", // 'light' | 'dark' | 'system'
+    scheme: "light", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
   link: "https://geek.nyc.mn",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://pic.myla.eu.org/file/0de32b3d111043a2f23ed.png", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
